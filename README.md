@@ -27,32 +27,7 @@ This project uses clinical and demographic data of COVID-19 patients to predict 
 
 ---
 
-## 📂 Project Structure
 
-covid19-risk-classifier/
-│
-├── notebooks/
-│ └── covid19_risk_classifier.ipynb # Main notebook (analysis & modeling)
-│
-├── dataset/
-│ └── Covid Data.csv # Cleaned dataset
-│
-├── models/
-│ └── best_model.pkl # Trained XGBoost model
-│
-├── images/
-│ ├── heatmap.png # Correlation matrix
-│ ├── class_distribution.png # Target class distribution
-│ └── model_performance.png # ROC curve for XGBoost
-│
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
-
-yaml
-نسخ
-تحرير
-
----
 
 ## 📈 Dataset Description
 
