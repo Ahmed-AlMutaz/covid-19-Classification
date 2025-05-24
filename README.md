@@ -75,7 +75,6 @@ While PCA helped improve speed slightly, model accuracy was slightly better **wi
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/your-username/covid19-risk-classifier.git](https://github.com/your-username/covid19-risk-classifier.git)
-   cd covid19-risk-classifier
+   
 pip install -r requirements.txt
 jupyter notebook notebooks/covid19_risk_classifier.ipynb
